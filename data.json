@@ -1,0 +1,274 @@
+{
+  "offers": [
+    {
+      "courseName": "Direito",
+      "rating": 2.8,
+      "fullPrice": 550.00,
+      "offeredPrice": 299.99,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/etep.png",
+      "iesName": "ETEP"
+    },
+    {
+      "courseName": "Administração",
+      "rating": 3.5,
+      "fullPrice": 450.00,
+      "offeredPrice": 299.99,
+      "kind": "ead",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unip.png",
+      "iesName": "Unip"
+    },
+    {
+      "courseName": "Enfermagem",
+      "rating": 4.0,
+      "fullPrice": 600.00,
+      "offeredPrice": 350.00,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/anhembi-morumbi.png",
+      "iesName": "Anhembi Morumbi"
+    },
+    {
+      "courseName": "Engenharia Civil",
+      "rating": 4.9,
+      "fullPrice": 800.00,
+      "offeredPrice": 500.00,
+      "kind": "ead",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unicsul.png",
+      "iesName": "UNICSUL"
+    },
+    {
+      "courseName": "Ciências Contábeis",
+      "rating": 5.0,
+      "fullPrice": 400.00,
+      "offeredPrice": 249.99,
+      "kind": "presencial",
+      "level": "licenciatura",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/anhanguera.png",
+      "iesName": "Anhanguera"
+    },
+    {
+      "courseName": "Pedagogia",
+      "rating": 1.6,
+      "fullPrice": 350.00,
+      "offeredPrice": 199.99,
+      "kind": "ead",
+      "level": "licenciatura",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/estacio.png",
+      "iesName": "Estácio"
+    },
+    {
+      "courseName": "Psicologia",
+      "rating": 2.9,
+      "fullPrice": 700.00,
+      "offeredPrice": 450.00,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unopar.png",
+      "iesName": "Unopar"
+    },
+    {
+      "courseName": "Marketing",
+      "rating": 4.4,
+      "fullPrice": 500.00,
+      "offeredPrice": 300.00,
+      "kind": "ead",
+      "level": "tecnologo",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unip.png",
+      "iesName": "Unip"
+    },
+    {
+      "courseName": "Tecnologia da Informação",
+      "rating": 4.8,
+      "fullPrice": 600.00,
+      "offeredPrice": 350.00,
+      "kind": "ead",
+      "level": "tecnologo",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/etep.png",
+      "iesName": "ETEP"
+    },
+    {
+      "courseName": "Arquitetura e Urbanismo",
+      "rating": 4.7,
+      "fullPrice": 850.00,
+      "offeredPrice": 499.99,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/anhembi-morumbi.png",
+      "iesName": "Anhembi Morumbi"
+    },
+    {
+      "courseName": "Fisioterapia",
+      "rating": 4.6,
+      "fullPrice": 700.00,
+      "offeredPrice": 399.99,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/anhanguera.png",
+      "iesName": "Anhanguera"
+    },
+    {
+      "courseName": "Ciência da Computação",
+      "rating": 4.9,
+      "fullPrice": 750.00,
+      "offeredPrice": 450.00,
+      "kind": "ead",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/etep.png",
+      "iesName": "ETEP"
+    },
+    {
+      "courseName": "Biomedicina",
+      "rating": 3.7,
+      "fullPrice": 900.00,
+      "offeredPrice": 550.00,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unicsul.png",
+      "iesName": "UNICSUL"
+    },
+    {
+      "courseName": "Nutrição",
+      "rating": 3.0,
+      "fullPrice": 500.00,
+      "offeredPrice": 299.99,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unopar.png",
+      "iesName": "Unopar"
+    },
+    {
+      "courseName": "Medicina Veterinária",
+      "rating": 4.8,
+      "fullPrice": 1000.00,
+      "offeredPrice": 600.00,
+      "kind": "ead",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/estacio.png",
+      "iesName": "Estácio"
+    },
+    {
+      "courseName": "Letras",
+      "rating": 4.7,
+      "fullPrice": 400.00,
+      "offeredPrice": 250.00,
+      "kind": "ead",
+      "level": "licenciatura",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unicsul.png",
+      "iesName": "UNICSUL"
+    },
+    {
+      "courseName": "Educação Física",
+      "rating": 4.4,
+      "fullPrice": 450.00,
+      "offeredPrice": 275.00,
+      "kind": "presencial",
+      "level": "licenciatura",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/anhembi-morumbi.png",
+      "iesName": "Anhembi Morumbi"
+    },
+    {
+      "courseName": "Odontologia",
+      "rating": 4.9,
+      "fullPrice": 1200.00,
+      "offeredPrice": 800.00,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/anhanguera.png",
+      "iesName": "Anhanguera"
+    },
+    {
+      "courseName": "Gestão de Recursos Humanos",
+      "rating": 4.5,
+      "fullPrice": 350.00,
+      "offeredPrice": 199.99,
+      "kind": "ead",
+      "level": "tecnologo",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unopar.png",
+      "iesName": "Unopar"
+    },
+    {
+      "courseName": "Engenharia Elétrica",
+      "rating": 4.7,
+      "fullPrice": 800.00,
+      "offeredPrice": 500.00,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unicsul.png",
+      "iesName": "UNICSUL"
+    },
+    {
+      "courseName": "Fonoaudiologia",
+      "rating": 4.6,
+      "fullPrice": 650.00,
+      "offeredPrice": 399.99,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/estacio.png",
+      "iesName": "Estácio"
+    },
+    {
+      "courseName": "Farmácia",
+      "rating": 4.8,
+      "fullPrice": 900.00,
+      "offeredPrice": 549.99,
+      "kind": "ead",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unip.png",
+      "iesName": "Unip"
+    },
+    {
+      "courseName": "Ciências Sociais",
+      "rating": 4.3,
+      "fullPrice": 350.00,
+      "offeredPrice": 199.99,
+      "kind": "presencial",
+      "level": "licenciatura",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/anhembi-morumbi.png",
+      "iesName": "Anhembi Morumbi"
+    },
+    {
+      "courseName": "Jornalismo",
+      "rating": 4.9,
+      "fullPrice": 700.00,
+      "offeredPrice": 400.00,
+      "kind": "presencial",
+      "level": "bacharelado",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unicsul.png",
+      "iesName": "UNICSUL"
+    },
+    {
+      "courseName": "Design Gráfico",
+      "rating": 4.5,
+      "fullPrice": 450.00,
+      "offeredPrice": 299.99,
+      "kind": "ead",
+      "level": "tecnologo",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/anhanguera.png",
+      "iesName": "Anhanguera"
+    },
+    {
+      "courseName": "Tecnologia em Logística",
+      "rating": 2.0,
+      "fullPrice": 500.00,
+      "offeredPrice": 299.99,
+      "kind": "presencial",
+      "level": "tecnologo",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/unopar.png",
+      "iesName": "Unopar"
+    },
+    {
+      "courseName": "Gestão Ambiental",
+      "rating": 1.0,
+      "fullPrice": 400.00,
+      "offeredPrice": 249.99,
+      "kind": "ead",
+      "level": "tecnologo",
+      "iesLogo": "https://www.tryimg.com/u/2019/04/16/etep.png",
+      "iesName": "ETEP"
+    }
+  ]
+}
